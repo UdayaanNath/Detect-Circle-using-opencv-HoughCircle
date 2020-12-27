@@ -1,5 +1,4 @@
-# Udayaan Nath
-# udayaan17119@iiitd.ac.in
+# Udayaan Nath/nudayaan17119@iiitd.ac.in
 
 **make sure python already installed**
 
